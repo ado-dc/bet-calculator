@@ -134,7 +134,7 @@ Please use betting services responsibly and comply with applicable laws.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**José Cassule**
 
 - GitHub: https://github.com/ado-dc
 - Project: BetCalculator
