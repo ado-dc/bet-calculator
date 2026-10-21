@@ -1,6 +1,7 @@
 
 import { useState } from 'react';
 import './App.css';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [amount, setAmount] = useState('');
@@ -182,6 +183,8 @@ function calculate() {
         <span>Responsivo</span>
         <span>Gratuito</span>
       </footer>
+
+      <Analytics />
     </main>
   );
 }
