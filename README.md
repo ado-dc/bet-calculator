@@ -118,7 +118,7 @@ bet-calculator/
 
 ## 🌐 Live Demo
 
-**Live application:** Add your Vercel deployment URL here.
+**Live application:** https://bet-calculator-xi.vercel.app/
 
 ## 🎯 Project Goal
 
