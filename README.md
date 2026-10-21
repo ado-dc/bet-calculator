@@ -134,7 +134,7 @@ Please use betting services responsibly and comply with applicable laws.
 
 **Your Name**
 
-- GitHub: Add your GitHub profile URL
+- GitHub: https://github.com/ado-dc
 - Project: BetCalculator
 
 ---
