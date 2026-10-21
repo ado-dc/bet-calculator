@@ -4,6 +4,10 @@ A modern, responsive betting return calculator built with **React, TypeScript, a
 
 BetCalculator helps users estimate potential returns and potential profit based on an initial stake, decimal odds, and a number of repetitions.
 
+## 📸 Preview
+
+![BetCalculator application preview](public/betcalculator-preview.png)
+
 ## ✨ Features
 
 - 💰 **Stake Calculator** — enter the initial amount in Angolan Kwanza (Kz).
